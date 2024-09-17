@@ -1,0 +1,15 @@
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/obj/Debug/net7.0/AdmissionModularized.csproj.AssemblyReference.cache
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/obj/Debug/net7.0/AdmissionModularized.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/obj/Debug/net7.0/AdmissionModularized.AssemblyInfoInputs.cache
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/obj/Debug/net7.0/AdmissionModularized.AssemblyInfo.cs
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/obj/Debug/net7.0/AdmissionModularized.csproj.CoreCompileInputs.cache
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/bin/Debug/net7.0/AdmissionModularized
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/bin/Debug/net7.0/AdmissionModularized.deps.json
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/bin/Debug/net7.0/AdmissionModularized.runtimeconfig.json
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/bin/Debug/net7.0/AdmissionModularized.dll
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/bin/Debug/net7.0/AdmissionModularized.pdb
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/obj/Debug/net7.0/AdmissionModularized.dll
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/obj/Debug/net7.0/refint/AdmissionModularized.dll
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/obj/Debug/net7.0/AdmissionModularized.pdb
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/obj/Debug/net7.0/AdmissionModularized.genruntimeconfig.cache
+/Users/alexyoodev/Projects/AdmissionModularized/AdmissionModularized/obj/Debug/net7.0/ref/AdmissionModularized.dll

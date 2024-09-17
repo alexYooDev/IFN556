@@ -34,9 +34,6 @@
 
         int afterSevenDays = days - THRESHOLD;
 
-        Console.WriteLine(BASE_RATE * THRESHOLD * books);
-        Console.WriteLine(OVER_SEVEN_DATE * afterSevenDays * books);
-
         fine = (BASE_RATE * THRESHOLD * books) + (OVER_SEVEN_DATE * afterSevenDays * books);
 
         return fine;

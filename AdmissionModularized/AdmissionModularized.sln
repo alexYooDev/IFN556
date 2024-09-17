@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdmissionModularized", "AdmissionModularized\AdmissionModularized.csproj", "{FD6BB5E7-FA7C-40CE-BF6A-585D7A95A755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6BB5E7-FA7C-40CE-BF6A-585D7A95A755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6BB5E7-FA7C-40CE-BF6A-585D7A95A755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6BB5E7-FA7C-40CE-BF6A-585D7A95A755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6BB5E7-FA7C-40CE-BF6A-585D7A95A755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA7433FD-25B1-4D39-BC00-4D15C28147EF}
+	EndGlobalSection
+EndGlobal
