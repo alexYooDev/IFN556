@@ -1,0 +1,15 @@
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/net7.0/FineForOverdueBooks
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/net7.0/FineForOverdueBooks.deps.json
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/net7.0/FineForOverdueBooks.runtimeconfig.json
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/net7.0/FineForOverdueBooks.dll
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/bin/Debug/net7.0/FineForOverdueBooks.pdb
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.csproj.AssemblyReference.cache
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.AssemblyInfoInputs.cache
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.AssemblyInfo.cs
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.csproj.CoreCompileInputs.cache
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.dll
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/refint/FineForOverdueBooks.dll
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.pdb
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/FineForOverdueBooks.genruntimeconfig.cache
+/Users/alexyoodev/Projects/FineForOverdueBooks/FineForOverdueBooks/obj/Debug/net7.0/ref/FineForOverdueBooks.dll
